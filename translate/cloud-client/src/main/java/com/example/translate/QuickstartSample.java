@@ -36,7 +36,7 @@ public class QuickstartSample {
         translate.translate(
             text,
             TranslateOption.sourceLanguage("en"),
-            TranslateOption.targetLanguage("ru"));
+            TranslateOption.targetLanguage("es"));
 
 
     System.out.printf("Text: %s%n", text);
